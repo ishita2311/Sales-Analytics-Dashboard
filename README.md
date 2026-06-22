@@ -29,4 +29,4 @@ Interactive Power BI dashboard analyzing retail sales, profit, orders, and produ
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashbord.png)
